@@ -29,8 +29,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 5 variações de títulos sobe lombok para o artigo                                                                                                                                                                                                    |
-| conteúdo | comporte-se como um escritor de artigos tech e escreva
-um artigo sobre o uso do LOMBOK em projetos JAVA atendendo as regras:{REGRAS}-aplicar exemplos de uso e trechos de código-criar tópicos curtos de no máximo 5 linhas-criar subtitulos nos tópicos |
+| conteúdo | comporte-se como um escritor de artigos tech e escreva um artigo sobre o uso do LOMBOK em projetos JAVA atendendo as regras:{REGRAS}-aplicar exemplos de uso e trechos de código-criar tópicos curtos de no máximo 5 linhas-criar subtitulos nos tópicos |
 
 
 ## ✨ Features
@@ -53,7 +52,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/vieira-fabricio">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/vieira-fabricio/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/vieira-fabricio/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/diar.iodev/">
     Instagram</a>
