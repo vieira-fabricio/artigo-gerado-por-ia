@@ -53,8 +53,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/vieira-fabricio">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-vieira-fabricio/">LinkedIn</a>
+    <a href="www.linkedin.com/in/vieira-fabricio/">LinkedIn</a>
 &nbsp;|&nbsp;
     <a href="https://www.instagram.com/diar.iodev/">
     Instagram</a>
